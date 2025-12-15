@@ -2,7 +2,7 @@
 
 ## What is Go PomoTimer?
 
-Go PomoTimer is a free online pomodoro timer that combines simplicity with powerful features for desktop & mobile browsers. You can work more efficiently, maintain focus, and complete tasks more quickly. It divides work into periods (pomodoros) with brief breaks.  
+Go PomoTimer is a [Free Online Pomodoro Timer](https://gopomotimer.io/) free online pomodoro timer that combines simplicity with powerful features for desktop & mobile browsers. You can work more efficiently, maintain focus, and complete tasks more quickly. It divides work into periods (pomodoros) with brief breaks.  
 
 Go PomoTimer goes beyond a basic timer. It allows:
 - Customization of session lengths and break times
@@ -26,7 +26,7 @@ The method was created by **Francesco Cirillo** in the late 1980s when he used a
 
 ## What is the Pomodoro Technique?
 
-The Pomodoro Technique is a time-management method created by **Francesco Cirillo** in the late 1980s. The approach involves using a timer to divide work into focused intervals, usually **25 minutes**, followed by short breaks. Each interval is called a *pomodoro*, named after the tomato-shaped kitchen timer Cirillo used.  
+The [Pomodoro Technique](https://gopomotimer.io/) is a time-management method created by **Francesco Cirillo** in the late 1980s. The approach involves using a timer to divide work into focused intervals, usually **25 minutes**, followed by short breaks. Each interval is called a *pomodoro*, named after the tomato-shaped kitchen timer Cirillo used.  
 
 The technique is popular thanks to apps and websites offering built-in timers and guidance. It is closely related to **timeboxing** and aligns well with iterative and incremental workflows used in software development, making it useful in **pair programming** and similar practices.
 
